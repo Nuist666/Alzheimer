@@ -1,0 +1,21 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/Login",
+    "pages/Register",
+    "pages/Mainpage",
+    "pages/Registersuccess",
+    "pages/personnelquery",
+    "pages/mocapage",
+    "pages/mocapage2",
+    "pages/cmmsepage",
+    "pages/cdrpage",
+    "pages/Developeroptions",
+    "pages/Recordertest",
+    "pages/cameratest",
+    "pages/SimpleVideoIndex",
+    "pages/SimpleVideoPlay",
+    "pages/fingerprint",
+    "pages/facerecognition"
+  ]
+}
